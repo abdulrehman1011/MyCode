@@ -1,0 +1,65 @@
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\ResolveAssemblyReference.cache
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\Interop.WMPLib.dll
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.ResolveComReference.cache
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Form1.resources
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Properties.Resources.resources
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.GenerateResource.Cache
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.exe
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.pdb
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\bin\Debug\Interop.WMPLib.dll
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\bin\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.exe
+E:\01 my practice\programs\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.pdb
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\Interop.WMPLib.dll
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.ResolveComReference.cache
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.exe
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.pdb
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.exe
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.pdb
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\bin\Debug\Interop.WMPLib.dll
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\bin\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\ResolveAssemblyReference.cache
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Form1.resources
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Properties.Resources.resources
+E:\01 my practice\01 my articles\under prep\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.GenerateResource.Cache
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\Interop.WMPLib.dll
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.ResolveComReference.cache
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.exe
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.pdb
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.exe
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.pdb
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\bin\Debug\Interop.WMPLib.dll
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\bin\Debug\AxInterop.WMPLib.dll
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\ResolveAssemblyReference.cache
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Form1.resources
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Properties.Resources.resources
+E:\01 my practice\01 my articles\prepared\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.GenerateResource.Cache
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.ResolveComReference.cache
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.exe
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.pdb
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.exe
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\bin\Debug\mymediaplayer.pdb
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Form1.resources
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.Properties.Resources.resources
+C:\Users\Abdul Rehman\Downloads\mymediaplayer\mymediaplayer\mymediaplayer\obj\Debug\mymediaplayer.csproj.GenerateResource.Cache
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.csproj.ResolveComReference.cache
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.exe
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.pdb
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\bin\Debug\mymediaplayer.exe
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\bin\Debug\mymediaplayer.pdb
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.Form1.resources
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.Properties.Resources.resources
+C:\Users\Abdul Rehman\Desktop\Apollo\Demo WMV+TTS\mymediaplayer\obj\Debug\mymediaplayer.csproj.GenerateResource.Cache
